@@ -709,3 +709,18 @@ http://dmitry-tv.ddns.net/hls/blrus/CH_CTBHD720.m3u8
 https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
 http://185.46.16.239:8000/TNT
 #EXTINF:-1 group-title="Инет",Моя планета HD
+#EXTINF:-1 group-title="📡 Ace Stream TV-Торрент ТВ",Киноужас HD
+http://127.0.0.1:6878/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)",КИНОУЖАС HD
+http://kinowalk.hopto.org/kinouzhas_live
+#EXTINF:-1 group-title="Цитадель🎯VPN",Киноужас
+http://tv.ttk.mx:9193
+#EXTINF:-1 group-title="Квант-Телеком VPN",КИНОУЖАС
+http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Киноужас
+http://stream.mcquack.net/278/index.m3u8
+#EXTINF:-1 group-title="LLC G&G-Telecom",Киноужас
+http://195.64.140.147:10043/43
+#EXTINF:-1 group-title="Uplink (VPN)",Киноужас
+https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv2
+
